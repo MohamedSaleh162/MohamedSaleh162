@@ -10,13 +10,13 @@
 
 ### 👨‍💻 About Me
 
-- 🌱 I’m currently expanding my skills in **React**, **Next.js**, and modern Front-End tools to build responsive web applications.
-- 💡 Passionate about creating intuitive, user-friendly, and engaging interfaces.
-- 🏆 Dedicated to **Competitive Programming** and consistently tackling algorithmic challenges to level up my problem-solving skills.
-- 🚀 Always looking to collaborate on exciting **Front-End projects** and open-source contributions.
-- 🐧 Enthusiastic about optimizing my development workflow and exploring Linux environments.
-- 💬 Ask me about: **Front-End Development, Algorithms, and Web Technologies**.
-- 📫 How to reach me: **thm64227@gmail.com**
+- I’m currently expanding my skills in **React**, **Next.js**, and modern Front-End tools to build responsive web applications.
+- Passionate about creating intuitive, user-friendly, and engaging interfaces.
+- Dedicated to **Competitive Programming** and consistently tackling algorithmic challenges to level up my problem-solving skills.
+- Always looking to collaborate on exciting **Front-End projects** and open-source contributions.
+- Enthusiastic about optimizing my development workflow and exploring Linux environments.
+- Ask me about: **Front-End Development, Algorithms, and Web Technologies**.
+- How to reach me: **thm64227@gmail.com**
 
 ---
 

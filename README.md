@@ -10,20 +10,21 @@
 
 ### 👨‍💻 About Me
 
-- I’m currently expanding my skills in **React**, **Next.js**, and modern Front-End tools to build responsive web applications.
-- Passionate about creating intuitive, user-friendly, and engaging interfaces.
-- Dedicated to **Competitive Programming** and consistently tackling algorithmic challenges to level up my problem-solving skills.
-- Always looking to collaborate on exciting **Front-End projects** and open-source contributions.
-- Enthusiastic about optimizing my development workflow and exploring Linux environments.
-- Ask me about: **Front-End Development, Algorithms, and Web Technologies**.
-- How to reach me: **thm64227@gmail.com**
+- 🎓 Computer Science undergraduate passionate about **Front-End Development** and building engaging user interfaces.
+- ⚙️ Currently expanding my skills in **React, Next.js**, and modern web technologies.
+- 🏆 Active **Competitive Programmer** on **Codeforces** — solving algorithmic problems and honing data structures with **C++**.
+- 🐧 Linux enthusiast daily-driving **Arch Linux**.
+- 🤝 Always open to collaborating on **Front-End projects** and open-source contributions.
+- 💬 Ask me about: **Front-End Development, Data Structures, Algorithms, and C++**.
+- 📫 How to reach me: [thm64227@gmail.com](mailto:thm64227@gmail.com).
 
 ---
 
 ### 🛠️ Languages and Tools
+<!-- تمت إضافة vscode و github في النهاية -->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,cpp,cs,mysql,arch,git" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,cpp,cs,mysql,arch,git,vscode,github" />
   </a>
 </p>
 
@@ -37,8 +38,9 @@
 </a>
 </p>
 
-
 <p align="left">
+<!-- تمت إضافة أيقونة الإيميل هنا -->
+<a href="mailto:thm64227@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" height="30" /></a>
 <a href="https://linkedin.com/in/mohamed-saleh-01a0a5381" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed-saleh-01a0a5381" height="30" width="40" /></a>
 <a href="https://fb.com/mohamed.saleh.159231" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mohamed.saleh.159231" height="30" width="40" /></a>
 <a href="https://x.com/Mo_saleh16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Mo_saleh16" height="30" width="40" /></a>

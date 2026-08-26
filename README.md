@@ -21,7 +21,6 @@
 ---
 
 ### 🛠️ Languages and Tools
-<!-- تمت إضافة vscode و github في النهاية -->
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,cpp,cs,mysql,arch,git,vscode,github" />
@@ -39,8 +38,7 @@
 </p>
 
 <p align="left">
-<!-- تمت إضافة أيقونة الإيميل هنا -->
-<a href="mailto:thm64227@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" height="30" /></a>
+<a href="mailto:thm64227@gmail.com" target="blank"><img align="center" src="https://skillicons.dev/icons?i=gmail" alt="Email" height="30" /></a>
 <a href="https://linkedin.com/in/mohamed-saleh-01a0a5381" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed-saleh-01a0a5381" height="30" width="40" /></a>
 <a href="https://fb.com/mohamed.saleh.159231" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mohamed.saleh.159231" height="30" width="40" /></a>
 <a href="https://x.com/Mo_saleh16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Mo_saleh16" height="30" width="40" /></a>

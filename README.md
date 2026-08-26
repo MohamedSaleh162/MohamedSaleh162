@@ -32,12 +32,8 @@
 <h3 align="left">🔗 Connect with me:</h3>
 
 <p align="left">
-<a href="https://mohamedsaleh162.github.io/Portfolio/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/My_Portfolio-0E75B6?style=for-the-badge&logo=Google-Chrome&logoColor=white" alt="Portfolio" />
-</a>
-</p>
-
-<p align="left">
+<!-- تم تحويل البورتفوليو لأيقونة متناسقة وضمها في نفس السطر مع باقي الأيقونات -->
+<a href="https://mohamedsaleh162.github.io/Portfolio/" target="_blank"><img align="center" src="https://img.icons8.com/color/48/chrome--v1.png" alt="Portfolio" height="30" width="30" /></a>
 <a href="mailto:thm64227@gmail.com" target="blank"><img align="center" src="https://skillicons.dev/icons?i=gmail" alt="Email" height="30" /></a>
 <a href="https://linkedin.com/in/mohamed-saleh-01a0a5381" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed-saleh-01a0a5381" height="30" width="40" /></a>
 <a href="https://fb.com/mohamed.saleh.159231" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mohamed.saleh.159231" height="30" width="40" /></a>
